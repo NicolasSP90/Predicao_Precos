@@ -9,6 +9,8 @@
 ![ipykernel](https://img.shields.io/badge/ipykernel-3670A0?style=for-the-badge)
 ![statsmodels](https://img.shields.io/badge/statsmodels-4051b5?style=for-the-badge)
 
+---
+
 # Predição de Valores de Seguro de Vida
 
 O projeto atual tem diversos objetivos.
